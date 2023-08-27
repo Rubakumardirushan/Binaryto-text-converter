@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 int converter();
-char text[1000];
+char text[1005];
 struct node{
 
 
